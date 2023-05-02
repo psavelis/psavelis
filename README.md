@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Pedro Savelis 👋
+[![Linkedin: anmol](https://img.shields.io/badge/-psavelis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/psavelis/)](https://www.linkedin.com/in/psavelis/)
+![GitHub followers](https://img.shields.io/github/followers/psavelis?label=Follow&style=social)
 
-<!--
-**psavelis/psavelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineer based in São Paulo, Brazil, with a passion for building scalable and reliable backend systems. I specialize in developing software architectures that can support large-scale applications and ensuring that they are easy to maintain and extend.
+
+## Focus
+
+Currently, I'm focused on pursuing the Staff Backend Engineering role, where I can utilize my expertise in designing and implementing complex systems to guide and mentor other engineers.
+
+
+## Skills
+
+My background programming languages are C#, Go and TypeScript. I'm always learning new technologies and methodologies to improve my skills.
+
+Below are some languages and tools that I've spent more time working with in the past years:
+
+<img alt="Golang" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original-wordmark.svg" width="50"> <img alt="Nodejs" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="50"> <img alt="Nestjs" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain.svg" width="50"> <img alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="50"> <img alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="50"> <img alt="SocketIO" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/socketio/socketio-original.svg" width="50"> <img alt="Jest" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jest/jest-plain.svg" width="50"> <img alt="ESlint" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" width="50"> <img alt="Mocha" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg" width="50"> <img alt="Polygon (EVM)" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/polygon/polygon-original.svg" width="50"> <img alt="Solidity (EVM)" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg" width="50"> <img alt="Dotnet Core" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dotnetcore/dotnetcore-original.svg" width="50"> <img alt="CSharp" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" width="50"> <img alt="NuGet" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuget/nuget-original.svg" width="50"> <img alt="AWS (AmazonWebServices)" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg" width="50"> <img alt="GCP (GoogleCloudPlatform)" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/googlecloud/googlecloud-original.svg" width="50"> <img alt="DO (DigitalOcean)" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/digitalocean/digitalocean-original.svg" width="50"> <img alt="Terraform" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/terraform/terraform-original.svg" width="50"> <img alt="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" width="50"> <img alt="K8s (Kubernetes)" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50"> <img alt="Prometheus"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/prometheus/prometheus-original.svg" width="50"> <img alt="Kafka" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apachekafka/apachekafka-original-wordmark.svg" width="50"> <img alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original-wordmark.svg" width="50"> <img alt="Postgresql" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" width="50"> <img alt="MySql" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" width="50"> <img alt="Microsoft SQLServer" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"> <img alt="GraphQL" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain-wordmark.svg" width="50"> <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" width="50">
+
+## Experience
+
+I have worked in various industries including insurance, finance, loyalty and entertainment where I've experience collaborating with cross-functional teams to deliver high-quality software solutions. I'm always eager to learn from others and share my knowledge and experience to help others grow in their careers.
+
+<img alt="github activity" src="https://github-profile-trophy.vercel.app/?username=psavelis">
+
+
+If you're interested in discussing backend engineering, architecture, or any other software development topic, please feel free to reach out to me. You can find me on [LinkedIn](https://www.linkedin.com/in/psavelis/) or you can contact me through [e-mail](mailto:psavelis@proton.me).
+
+Thanks for checking out my profile!
