@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/psavelis?label=Follow&style=social)
 
 
-I'm a Software Engineer based in São Paulo, Brazil, with a passion for building scalable and reliable backend systems. I specialize in developing distributed software ensuring that they are easy to **maintain** and **extend**.
+I'm a Software Engineer based in Santos (São Paulo), Brazil, with a passion for building scalable and reliable backend systems. I specialize in developing distributed software ensuring that they are easy to **maintain** and **extend**.
 
 ## Background
 
@@ -28,6 +28,8 @@ Currently, I try to contribute in community initiatives through:
   - Payment integration
 - [**TeamPro** (@d-ash-io)](github.com/d-ash-io)
   - Match insights lib (csgo/cs2)
+- [**LeetGamingPRO** (@leetgaming)](github.com/leetgaming) **ACTIVE** Help Welcome =]
+  - Open Initiative for Player Performance Insights & Game Coaching
 
 If you're interested in discussing any software development topic, please feel free to reach out to me. You can find me on [LinkedIn](https://www.linkedin.com/in/psavelis/) or you can contact me through [e-mail](mailto:psavelis@proton.me).
 
