@@ -21,12 +21,12 @@ I have worked in different industries including insurance, finance, loyalty and 
 
 ## Community Projects
 Currently, I try to contribute in community initiatives through:
-- [**CryptoSkateboarders** (@worldtastesfine)](github.com/cryptoskateboarders)
+- [**CryptoSkateboarders** (@worldtastesfine)](github.com/cryptoskateboarders) **COLLAB**
   - Parametric Image layering lib for collection generation
-- [**Kanna** (@kanna-coin)](github.com/kanna-coin)
+- [**Kanna** (@kanna-coin)](github.com/kanna-coin) **COLLAB**
   - APIs for integrating with onchain events
   - Payment integration
-- [**TeamPro** (@d-ash-io)](github.com/d-ash-io)
+- [**TeamPro** (@d-ash-io)](github.com/d-ash-io) **COLLAB**
   - Match insights lib (csgo/cs2)
 - [**LeetGamingPRO** (@leetgaming)](github.com/leetgaming) **ACTIVE** Help Welcome =]
   - Open Initiative for Player Performance Insights & Game Coaching
