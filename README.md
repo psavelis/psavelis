@@ -17,7 +17,7 @@ Below are tools I've spent time working with in the past years:
 
 ## Experience
 
-I have worked in different industries including insurance, finance, loyalty and entertainment where I have experienced collaborating in cross-functional teams to deliver realiable software.
+I have worked in different industries including insurance, finance, loyalty and entertainment where I have experienced collaborating in cross-functional teams to deliver reliable software.
 
 ## Community Projects
 Currently, I try to contribute in community initiatives through:
