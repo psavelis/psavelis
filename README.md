@@ -1,7 +1,6 @@
-# Hi there, I'm Pedro Savelis 👋
+# Hi there, I'm Pedro 🪽
 [![Linkedin: anmol](https://img.shields.io/badge/-psavelis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/psavelis/)](https://www.linkedin.com/in/psavelis/)
 ![GitHub followers](https://img.shields.io/github/followers/psavelis?label=Follow&style=social)
-
 
 I'm a Software Engineer based in Santos (São Paulo), Brazil, with a passion for building scalable and reliable backend systems. I specialize in developing distributed software ensuring that they are easy to **maintain** and **extend**.
 
@@ -19,18 +18,10 @@ Below are tools I've spent time working with in the past years:
 
 I have worked in different industries including insurance, finance, loyalty and entertainment where I have experienced collaborating in cross-functional teams to deliver reliable software.
 
-## Community Projects
-Currently, I try to contribute in community initiatives through:
-- [**CryptoSkateboarders** (@worldtastesfine)](github.com/cryptoskateboarders) **COLLAB**
-  - Parametric Image layering lib for collection generation
-- [**Kanna** (@kanna-coin)](github.com/kanna-coin) **COLLAB**
-  - APIs for integrating with onchain events
-  - Payment integration
-- [**TeamPro** (@d-ash-io)](github.com/d-ash-io) **COLLAB**
-  - Match insights lib (csgo/cs2)
-- [**LeetGamingPRO** (@leetgaming)](github.com/leetgaming) **ACTIVE** Help Welcome =]
-  - Open Initiative for Player Performance Insights & Game Coaching
-
-If you're interested in discussing any software development topic, please feel free to reach out to me. You can find me on [LinkedIn](https://www.linkedin.com/in/psavelis/) or you can contact me through [e-mail](mailto:psavelis@proton.me).
+### Community & Collaboration
+I do my best to try contribute in community initiatives that foster social benefits and learning opportunities. If you're interested in discussing any software development topic, please feel free to reach out to me. You can find me on [LinkedIn](https://www.linkedin.com/in/psavelis/) or you can contact me through [e-mail](mailto:psavelis@proton.me).
 
 Thanks for checking out my profile!
+
+[![Linkedin: anmol](https://img.shields.io/badge/-psavelis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/psavelis/)](https://www.linkedin.com/in/psavelis/)
+![GitHub followers](https://img.shields.io/github/followers/psavelis?label=Follow&style=social)
